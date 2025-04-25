@@ -9,7 +9,7 @@ lab-4 https://github.com/2303A52479/GEN-AI-LAB/blob/main/GEN_AI_LAB_ASSIGNMENT_4
 
 lab-5 https://github.com/2303A52479/GEN-AI-LAB/blob/main/GEN_AI_LAB_ASSIGNMENT_5.ipynb
 
-https://github.com/2303A52479/GEN-AI-LAB/blob/main/GEN_AI_LAB_6.ipynb
+lab-6 https://github.com/2303A52479/GEN-AI-LAB/blob/main/GEN_AI_LAB_6.ipynb
 
 lab-9 https://github.com/2303A52479/GEN-AI-LAB/blob/main/GEN_AI_LAB_9.ipynb
 
